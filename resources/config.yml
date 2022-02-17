@@ -1,1 +1,11 @@
-
+warp-create-success: "§aSuccessfull create warp with name {warp}"
+warp-create-exists: "§cWarp with name {warp} already exist"
+warp-create-invalid: "§cInvalid usage! /setwarp <warpName>"
+warp-delete-success: "§aWarp with name {warp} successful deleted"
+warp-delete-not-exist: "§cWarp with name {warp} not exist"
+warp-delete-invalid: "§cInvalid usage! /delwarp <warpName>"
+no-permission: "§cYou do not have permission!"
+warp-list: "§fThere are {count} warp exist.\n§f[§e{warp}§f]"
+warp-not-found: "§cWarp with name {warp} not found"
+warp-not-available: "§cWarp with name {warp} not available"
+warp-teleport-success: "§aSuccessful teleported to warp {warp}"
