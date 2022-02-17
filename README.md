@@ -15,3 +15,6 @@
 - setwarp.cmd: op
 - delwarp.cmd: op
 - warp.cmd: true
+
+# Issues
+Found some bug or error? Create an issue here https://github.com/SafiraaCute/WarpSystem/issues
