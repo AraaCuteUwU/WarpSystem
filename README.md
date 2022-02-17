@@ -7,9 +7,9 @@
 
 # Commands
 - /warp (see all warps name) 
-- /warp <warpName>
-- /delwarp <warpName>
-- /setwarp <warpName>
+- /warp (warpName)
+- /delwarp (warpName)
+- /setwarp (warpName)
 
 # Permissions
 - setwarp.cmd
