@@ -13,8 +13,8 @@
 
 # Permissions
 - setwarp.cmd
-   default: op
+   op
 - delwarp.cmd:
-   default:op
+   op
 - warp.cmd
-   default: true
+   true
