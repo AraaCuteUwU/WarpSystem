@@ -1,0 +1,24 @@
+name: WarpSystem
+version: 1.0.0
+main: SafiraaCute\WarpSystem\Main
+api: 4.0.0
+author: SafiraaCute
+
+commands:
+ warp:
+  description: "Teleport to warp"
+  permission: warp.cmd
+ setwarp:
+  description: "Create warp"
+  permission: setwarp.cmd
+ delwarp:
+  description: "Delete warp"
+  permission: delwarp.cmd
+  
+permissions:
+ warp.cmd:
+  default: true
+ setwarp.cmd:
+  default: op
+ delwarp.cmd:
+  default: op
