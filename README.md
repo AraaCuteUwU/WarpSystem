@@ -12,9 +12,6 @@
 - /setwarp (warpName)
 
 # Permissions
-- setwarp.cmd
-   op
-- delwarp.cmd:
-   op
-- warp.cmd
-   true
+- setwarp.cmd: op
+- delwarp.cmd: op
+- warp.cmd: true
